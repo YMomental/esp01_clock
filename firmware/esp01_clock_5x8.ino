@@ -3,8 +3,8 @@
 #include <coredecls.h> 
 #include <ArduinoOTA.h>
 
-const char* ssid = "default314";
-const char* password = "rev0lut10n";
+const char* ssid = "..";
+const char* password = "..";
 
 // --- ПІНИ ---
 #define PIN_DIN 0  // GPIO 0
